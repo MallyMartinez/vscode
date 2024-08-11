@@ -9,6 +9,9 @@
 //*        Ctrl + Shift + Z
 //*
 
+function holaMundo() {
+    return 'otro dia, otra migraña';
+}
 
 //! Demo
 // function holaMundo() {
