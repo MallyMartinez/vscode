@@ -1,6 +1,6 @@
 //*
 //*    Objetivo:
-//*        Comentar un bloque de código
+//*        borrar varias lineas de forma simultanea
 //*
 //*    Tips:
 //*        ⇧ ⌘ K
@@ -10,7 +10,7 @@
 //*        Seleccionar todas las ocurrencias de la selección
 //*        ⇧ ⌘ L
 //*        Ctrl + Shift + L
-//*
+//*  
 
 let NoMeBorres = ':)';
 let Borrame = ':(';
