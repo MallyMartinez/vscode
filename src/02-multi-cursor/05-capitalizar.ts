@@ -3,11 +3,12 @@
 //*        Crear múltiples cursores
 //*        Dar el formato deseado
 //*
-//*    Tips:
+//*    Tamaño en minuesculas:
 //*        ⌥ ⌘ ↑ / ↓
 //*        Transform to Uppercase: asignar atajo ---  ⌃ ⇧ U
 //*        Transform to Lowercase: asignar atajo ---  ⌃ ⇧ L
 //*
+//*     Tamaño en mayusculas:
 //*        Ctrl + Alt+ ↑ / ↓
 //*        Transform to Uppercase: asignar atajo --- Ctrl + Shift + U
 //*        Transform to Uppercase: asignar atajo --- Ctrl + Shift + L
@@ -20,21 +21,21 @@
 
 function capitalizados() {
     //! Sólo la primera letra
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
-
-}
-
-function minusculas() {
-
     const HULK       = 'brouce banner';
     const HAWKEYE    = 'cinton francis';
     const IRONMAN    = 'tony stark';
     const SPIDERMAN  = 'peter parker';
     const VIUDANEGRA = 'natalia romanova';
+
+}
+
+function minusculas() {
+
+    const hulk       = 'brouce banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
 
 }
 
