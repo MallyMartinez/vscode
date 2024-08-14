@@ -8,10 +8,10 @@
 //*        ⇧ ⌘ O
 //*
 //*        Ctrl + P => luego escribir la @
-//*        Ctrl + Shift = O
+//*        Ctrl + Shift = O 
 //*
 //*        Se pueden agrupar si después de la @, se escriben :
-//*
+//*         muy util para encontrar la definicion
 
 
 class SuperHero {
