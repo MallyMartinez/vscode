@@ -1,4 +1,15 @@
 
+class label {
+
+    constructor() {
+        console.log('label initialized');
+    }
+
+    showlabelo() {
+        return this;
+    }
+}
+
 
 
 
