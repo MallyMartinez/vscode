@@ -1,10 +1,10 @@
 // Color Highlight
 
 const colores = [
-    '#fafafa', 
+    '#fafaf4', 
     '#7F4CCC', 
     '#0075FF', 
-    '#FF5F45',
+    '#0F1F19',
 ];
 
 
