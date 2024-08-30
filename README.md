@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" alt="VSCode Icon" width="40"/> VSCode Enhancements
+# <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" alt="VSCode Icon" width="40"/> VSCode
 
 Este repositorio contiene código y configuraciones para mejorar la experiencia de uso de Visual Studio Code, un editor de texto poderoso con muchos atajos y herramientas para editar código de manera eficiente.
 
